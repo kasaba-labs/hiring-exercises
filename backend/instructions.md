@@ -57,7 +57,7 @@ The goal of this exercise is to design a highly normalized database schema for s
 
 ### A few quick notes on submitting Exercise B
 
-* Ideally this exercise would use SQLite or Postgres, but any SQL database is OK
+* Any SQL database is OK
 * Feel free to upload the entire SQL dump (with schema) of the populated database, or create a script that creates the schema and populates the database with one or more of the provided salary data CSVs. Please do whatever makes the most sense given the time alloted.
 * If you'd like to use a scripting language like Python or Ruby along with an ORM to make this easier, thats fine with us!
 
