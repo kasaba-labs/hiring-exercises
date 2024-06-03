@@ -17,6 +17,7 @@ Instructions:
 5. Full-screen image display is an additional bonus.
 
 APIs: 
+
 ● To list the rovers:
 https://mars-photos.herokuapp.com/api/v1/rovers
 
@@ -24,7 +25,7 @@ https://mars-photos.herokuapp.com/api/v1/rovers
 ● To fetch the latest photos for any rover:
 https://mars-photos.herokuapp.com/api/v1/rovers/{roverName}/latest_photos 
 
-
 Design Reference: 
+
 ● Figma Link: 
 https://www.figma.com/design/ZkJbfGmwu0kMurjDCWDU5z/Carla-iOS-Test-Case?node-id=22-555&t=8Hh6XwzBtiwitXRD-0
